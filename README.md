@@ -1,13 +1,11 @@
 
 
 
-## Tudo bem? Sou o Isaque César Vereda!😄
+## Olá tudo bem? Prazer sou a Mayara Mota!😄
 <div>
   
-<p>Sou técnico em Desenvolvimento de Sistemas pela ETEC Jorge Street e Tecnólogo em Gestão da Tecnologia da Informação. Aperfeiçoei meus conhecimentos técnicos através de trabalhos formais e informais, tanto para fins lucrativos quanto para fins pessoais.</p>
-
-<p>Me considero criativo, determinado e fascinado por inovação. Uma das minhas características mais marcantes é o sorriso e a alegria, busco sempre levar essas características comigo por onde eu for.</p>
-<p>Entrei no barco da Tecnologia da Informação em 2019 com o curso técnico de Desenvolvimento de Sistemas. Onde decidi, de vez, seguir nesta área. Não sabia ao certo em qual área queria projetar minha carreira mas, este curso me ajudou bastante a enxergar o mundo profissional de uma forma diferente. Logo após, entrei  na faculdade. Com ela, veio o aprimoramento das competências técnicas e a vivência de trabalho como desenvolvedor. Onde estou sempre buscando aprender coisas novas e aprimorar meus conhecimentos.</p>
+<p>Estou no quarto semestre do curso Tecnólogo em Análise e Desenvolvimento de Sistemas na faculdade São Paulo Tech School. Me formei técnico em Desenvolvimento de Sistemas pela ETEC Jorge Street.
+Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil dinâmico, comprometido e proativo, com foco no aprendizado constante e no trabalho em equipe, a fim de contribuir para o alcance de metas. Busco o aprimorar minhas competências técnicas e a vivência de trabalho como desenvolvedora. Estou sempre explorando coisas novas e aprimorando meus conhecimentos.</p>
 
 <h4>CONTATO:</h4>
 <p><strong>Telefone:</strong> <a href="tel:+5511933390717">+55 11 94662-6978</a></p>
