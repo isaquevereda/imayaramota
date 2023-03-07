@@ -10,16 +10,16 @@
 <p>Entrei no barco da Tecnologia da Informação em 2019 com o curso técnico de Desenvolvimento de Sistemas. Onde decidi, de vez, seguir nesta área. Não sabia ao certo em qual área queria projetar minha carreira mas, este curso me ajudou bastante a enxergar o mundo profissional de uma forma diferente. Logo após, entrei  na faculdade. Com ela, veio o aprimoramento das competências técnicas e a vivência de trabalho como desenvolvedor. Onde estou sempre buscando aprender coisas novas e aprimorar meus conhecimentos.</p>
 
 <h4>CONTATO:</h4>
-<p><strong>Telefone:</strong> <a href="tel:+5511933390717">+55 11 93339-0717</a></p>
-<p><strong>E-mail:</strong> <a href="mailto:devisaquevereda@gmail.com">devisaquevereda@gmail.com</a></p>
+<p><strong>Telefone:</strong> <a href="tel:+5511933390717">+55 11 94662-6978</a></p>
+<p><strong>E-mail:</strong> <a href="mailto:devimayaramota@gmail.com">mayaramota2003@gmail.com</a></p>
 <br>
 </div>
 
 </div>  
 <div align="center">
-  <a href="https://github.com/isaquevereda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquevereda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquevereda&layout=compact&langs_count=8&theme=dracula"/>
+  <a href="https://github.com/imayaramota">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imayaramota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayaramota&layout=compact&langs_count=8&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -35,13 +35,13 @@
   
 <hr/>
 <div> 
-  <a href = "mailto:devisaquevereda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isaquevereda" target="_blank">
+  <a href = "mailto:devimayaramota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/imayaramota" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/isaquevereda/isaquevereda/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/imayaramota/imayaramota/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-<div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=blue" alt="isaquevereda" /></div>
+<div><img src="https://komarev.com/ghpvc/?username=imayaramota&color=blue" alt="imayaramota" /></div>
   
  
