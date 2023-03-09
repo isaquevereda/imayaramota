@@ -9,7 +9,7 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
 
 <h4>CONTATO:</h4>
 <p><strong>Telefone:</strong> <a href="tel:+5511933390717">+55 11 94662-6978</a></p>
-<p><strong>E-mail:</strong> <a href="mailto:mayaramota2003@gmail.com">mayaramota2003@gmail.com</a></p>
+<p><strong>E-mail:</strong> <a href="mailto:devmayaramota@gmail.com">devmayaramota@gmail.com</a></p>
 <br>
 </div>
 
